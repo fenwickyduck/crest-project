@@ -1,2 +1,2 @@
-# Genetic Algorithm Research
-The repository containing the code included in _Application and Exploration of Genetic Algorithm to Optimise Energy Usage in Elevator Algorithms_.
+# CREST Project
+The repository containing the code included in _Using a Genetic Algorithm to Reduce Energy Usage in Elevators_.
